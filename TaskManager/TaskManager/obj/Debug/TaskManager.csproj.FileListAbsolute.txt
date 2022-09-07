@@ -1,0 +1,13 @@
+C:\Users\Home-Comp\source\repos\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+C:\Users\Home-Comp\source\repos\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+C:\Users\Home-Comp\source\repos\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+C:\Users\Home-Comp\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.Form1.resources
+C:\Users\Home-Comp\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+C:\Users\Home-Comp\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.cache
+C:\Users\Home-Comp\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\Home-Comp\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+C:\Users\Home-Comp\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+C:\Users\Home-Comp\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.ListItem.resources
+C:\Users\Home-Comp\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.Form2.resources
+C:\Users\Home-Comp\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.SubListItem.resources
+C:\Users\Home-Comp\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.csprojAssemblyReference.cache
